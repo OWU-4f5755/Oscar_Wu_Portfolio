@@ -8,6 +8,13 @@
 3. **Passing Previous User/AI Interactions to Future User Inputs:** Extended the ability of the baseline GPT API to now retain and call on prior user-defined prompts and responses, optionally across multiple chat sessions, and combine the recorded conversation history with user file subsets as a singular input for NLP tasks plus baseline GPT model operations.
 4. **Parallelizing Dual GPT "Agents" and Optional Cross-Interaction:** Initialized two pairs of GPT "Agents" on the deployed Gradio interface, where users can optionally enable, via a checkbox: cross-instance interaction and chained prompt and answer pairs.
 
+Test imgur:
 ![](https://i.imgur.com/rOJm4J7.png)
 
-# Project 2:
+
+Test png counterpart:
+![](images/AI_Chatbot_Annotated.png)
+
+
+Test mp4:
+![](images/movie.mp4)
