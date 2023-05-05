@@ -9,7 +9,7 @@
 4. **Parallelizing Dual GPT "Agents" and Optional Cross-Interaction:** Initialized two pairs of GPT "Agents" on the deployed Gradio interface, where users can optionally enable, via a checkbox: cross-instance interaction and chained prompt and answer pairs.
 
 ![](images/AI_Sequence_Diagv2.png)
-*Figure 1: Sequence diagram illustrating the GPT-4 AI system's primary components and interactions, highlighting optional conversation history access and parallel processing of input texts from two chatbot instances. The diagram also emphasizes secure API key handling and the integration of user input through a Gradio interface*.
+*Figure 1: Sequence diagram illustrating the GPT-4 AI system's primary components and interactions, highlighting optional conversation history access and parallel processing of input texts from two chatbot instances. Note the additional security on User API key handling as well as the integration of user input on the Gradio interface*.
 
 
 
