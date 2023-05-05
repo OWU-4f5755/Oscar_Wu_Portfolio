@@ -1,6 +1,3 @@
-# Oscar_Wu_Portfolio
-Project portfolio for Oscar Wu, hosted on GitHub Pages
-
 # Project 1: GPTFusion - An AI Chatbot Mastering Multi-Model Integration & Dynamic Interactions
 ## Summary
 - I developed a versatile AI chatbot that: works seamlessly with multiple GPT models; offers tailored document integration, conversation history management; and exhibits multi-input functionality on a client-facing API by leveraging Gradio, Python, and the OpenAI API.
