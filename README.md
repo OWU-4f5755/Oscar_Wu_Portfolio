@@ -11,6 +11,7 @@
 ![](images/AI_Chatbot_Annotated.png)
 *Figure 1: This displays an example interaction with the dual agent chatbot. Note the **clickable checkbox** in the lower left-hand corner that determines Interaction State for the User, as well as the **yellow arrows** denoting Agent 2's abitlity to cross-reference a previous prompt given to Agent 1*. 
 
+![](images/Sequence_Diagram_MermaidJS_AI_Chatbot_Interactions.svg)
 
 
 
