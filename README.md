@@ -8,10 +8,8 @@
 3. **Passing Previous User/AI Interactions to Future User Inputs:** Extended the ability of the baseline GPT API to now retain and call on prior user-defined prompts and responses, optionally across multiple chat sessions, and combine the recorded conversation history with user file subsets as a singular input for NLP tasks plus baseline GPT model operations.
 4. **Parallelizing Dual GPT "Agents" and Optional Cross-Interaction:** Initialized two pairs of GPT "Agents" on the deployed Gradio interface, where users can optionally enable, via a checkbox: cross-instance interaction and chained prompt and answer pairs.
 
-![](images/AI_Chatbot_Annotated.png)
-*Figure 1: This displays an example interaction with the dual agent chatbot. Note the **clickable checkbox** in the lower left-hand corner that determines Interaction State for the User, as well as the **yellow arrows** denoting Agent 2's abitlity to cross-reference a previous prompt given to Agent 1*. 
-
-![](images/Sequence_Diagram_MermaidJS_AI_Chatbot_Interactions.svg)
+![](images/AI_Sequence_Diagv2.png)
+*Figure 1: Sequence diagram illustrating the GPT-4 AI system's primary components and interactions, highlighting optional conversation history access and parallel processing of input texts from two chatbot instances. The diagram also emphasizes secure API key handling and the integration of user input through a Gradio interface*.
 
 
 
