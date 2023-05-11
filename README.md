@@ -40,3 +40,15 @@ Conducted an analysis that investigates the impact of socioeconomic factors on d
 
 ![patients_heatmap](media/all_patients_trlights.png)  
 *Figure 3: Traffic light heatmap of daily patient arrivals at Parkland's emergency department during COVID 2020, with the x-axis representing the day of the year and the y-axis representing different calculated statistics based on the normalized residue of the time series. The colors (green, yellow, red) indicate the level of deviation from the reference.*
+
+# [Project 4: Enhancing Literature Reviews and Scientific Writing through an End-to-End Pipeline](https://github.com/OWU-4f5755/UTSW-Wu-Obs-Vault)
+
+## Summary
+Created a pipeline that streamlines the process of conducting literature reviews and fosters novel idea creation by integrating multiple programming languages and research tools to create a comprehensive, integrative knowledge bank and research workflow system.
+
+## Key Features
+1. Integration of multiple programming languages (JavaScript, Python, SQL) and research tools (Obsidian, VS Code, Zotero) to create an efficient and unified research workflow.
+2. Utilization of PyTesseract for Optical Character Recognition (OCR),to extract text from images and PDFs, indexe them in a database, and allows quick of access related text in a command palette.
+3. Implementation of wikilinks to connect related notes and create a knowledge graph, the system visualizes the relationships between notes and applies graph algorithms (Jaccard, Otsuka-Chiai, Bag of Words, Louvain, Label Propagation) to assess similarity, predict links, and cluster notes via community detection, ultimately fostering the generation of novel ideas and insights.
+4. Automatically scheduled synchronization of changes to notes with Git and GitHub, ensuring version control and data integrity
+5. Efficiently exporting documents or annotations from markdown, linked to BibTeX references of archived scientific articles in Zotero, to a variety of file formats (Microsoft Word, PDF) and, if needed, adhering to the citation styles prescribed by respective academic journals.
