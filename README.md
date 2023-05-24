@@ -1,9 +1,9 @@
 # Wu's Portfolio
-Project portfolio for Oscar Wu. 
+**Project portfolio** for Oscar Wu. 
 
-The link to my GitHub Profile is here: [OWU-4f5755 (Oscar Wu) · GitHub](https://github.com/OWU-4f5755).
+The link to my **GitHub Profile** is here: [OWU-4f5755 (Oscar Wu) · GitHub](https://github.com/OWU-4f5755).
 
-If you have any questions or would like to get in touch, please feel free to reach out to me at oscarwu600@gmail.com.
+If you have any questions or would like to get in touch, please feel free to reach out to me at **oscarwu600@gmail.com**.
 
 # [Project 1: GPTFusion - An AI Chatbot Mastering Multi-Model Integration & Dynamic Interactions](https://github.com/OWU-4f5755/gptfusion_langchain)
 ## Summary
